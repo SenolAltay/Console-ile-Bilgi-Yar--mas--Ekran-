@@ -1,0 +1,7 @@
+C:\Users\ŞENOL\source\repos\Turkcell_Yarisma\Turkcell_Yarisma\bin\Debug\Turkcell_Yarisma.exe.config
+C:\Users\ŞENOL\source\repos\Turkcell_Yarisma\Turkcell_Yarisma\bin\Debug\Turkcell_Yarisma.exe
+C:\Users\ŞENOL\source\repos\Turkcell_Yarisma\Turkcell_Yarisma\bin\Debug\Turkcell_Yarisma.pdb
+C:\Users\ŞENOL\source\repos\Turkcell_Yarisma\Turkcell_Yarisma\obj\Debug\Turkcell_Yarisma.csproj.AssemblyReference.cache
+C:\Users\ŞENOL\source\repos\Turkcell_Yarisma\Turkcell_Yarisma\obj\Debug\Turkcell_Yarisma.csproj.CoreCompileInputs.cache
+C:\Users\ŞENOL\source\repos\Turkcell_Yarisma\Turkcell_Yarisma\obj\Debug\Turkcell_Yarisma.exe
+C:\Users\ŞENOL\source\repos\Turkcell_Yarisma\Turkcell_Yarisma\obj\Debug\Turkcell_Yarisma.pdb
